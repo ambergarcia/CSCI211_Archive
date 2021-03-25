@@ -1,4 +1,4 @@
-# QC CSCI 211 Archive
+# CSCI 211 Archive
 All projects [finished or unfinished] for this class
 
 HW#1: Overflow
