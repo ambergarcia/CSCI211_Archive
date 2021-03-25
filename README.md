@@ -1,5 +1,4 @@
 # CSCI 211 Archive
-All projects [finished or unfinished]
 
 *NOTE: This repository serves as an archive for all assignments done for CSCI 211*
 
